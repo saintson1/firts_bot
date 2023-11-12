@@ -66,6 +66,7 @@
     "json-buffer": "^3.0.1",
     "json-schema-traverse": "^0.4.1",
     "json-stable-stringify-without-jsonify": "^1.0.1",
+    "jsontoxml": "^1.0.1",
     "keyv": "^4.5.4",
     "levn": "^0.4.1",
     "locate-path": "^6.0.0",
@@ -101,6 +102,8 @@
     "uri-js": "^4.4.1",
     "which": "^2.0.2",
     "wrappy": "^1.0.2",
+    "xlsx": "^0.18.5",
+    "xmlhttprequest": "^1.8.0",
     "yocto-queue": "^0.1.0"
   },
   "description": ""

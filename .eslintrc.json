@@ -3,8 +3,17 @@
   "rules": {
     // Add rules here
   },
+
+  "ecmaFeatures": {
+    "modules": true,
+    "spread": true,
+    "restParams": true
+  },
+
   "parserOptions": {
+    "sourceType": "module",
     "ecmaVersion": "latest"
+
   },
 
   "env": {
